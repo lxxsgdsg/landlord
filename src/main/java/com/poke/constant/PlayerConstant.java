@@ -8,21 +8,9 @@ package com.poke.constant;
  */
 
 public class PlayerConstant {
-    public static final String LIUXINXIN = "刘昕鑫";
+    public static final String PLAYERA = "玩家1";
 
-    public static final String LIERBAO = "李二宝";
+    public static final String PLAYERB = "玩家2";
 
-    public static final String LUOYANG = "罗杨";
-
-    public static final String YANGKAI = "杨凯";
-
-    public static final String WEIWEI = "魏巍";
-
-    public static final String WEINING = "魏宁";
-
-    public static final String GUOCHONGYANG = "郭重阳";
-
-    public static final String SONGGUANGHUI = "宋光辉";
-
-    public static final String WANGJINTING = "王金亭";
+    public static final String PLAYERC = "玩家3";
 }

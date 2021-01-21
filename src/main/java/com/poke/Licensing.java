@@ -13,8 +13,8 @@ import static com.poke.constant.PlayerConstant.*;
 public class Licensing {
 
     public static void main(String[] args) throws IOException, InvalidFormatException {
-        PokeUtil.landlord(LIUXINXIN, LUOYANG, WEIWEI);
-//        PokeUtil.licensingByNum(3, LIUXINXIN, LIERBAO);
+        PokeUtil.landlord(PLAYERA, PLAYERB, PLAYERC);
+//        PokeUtil.licensingByNum(3, PLAYERA, PLAYERB);
     }
 
 }
